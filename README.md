@@ -2,7 +2,7 @@
 ## _Using Coingecko API_
 
 ## Business case
-Our team wants to be able to categorize the crypto currencies, and be able to query top coins for each category for research purposes.
+Our team wants to be able to categorize the crypto currencies, and be able to query top coins for each category for research purposes. We want to be able to visualize it in more ways than just how Coingecko presents the data.
 
 # Connect:
 We will be using Coingecko API
@@ -18,5 +18,6 @@ We want to be able to visualize the data in 3 different ways:
 - Dashboard (tableau or powerBI)
 - Raw query (can be amazon athena)
 - simple UI (streamlit)
+
 
 
